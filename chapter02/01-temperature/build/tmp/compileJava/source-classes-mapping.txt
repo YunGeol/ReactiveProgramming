@@ -1,8 +1,8 @@
 com/example/demo/temperature/TemperatureSensor.java
  com.example.demo.temperature.TemperatureSensor
-com/example/demo/temperature/Temperature.java
- com.example.demo.temperature.Temperature
-com/example/demo/temperature/TemperatureController.java
- com.example.demo.temperature.TemperatureController
 com/example/demo/DemoApplication.java
  com.example.demo.DemoApplication
+com/example/demo/temperature/TemperatureController.java
+ com.example.demo.temperature.TemperatureController
+com/example/demo/temperature/Temperature.java
+ com.example.demo.temperature.Temperature
